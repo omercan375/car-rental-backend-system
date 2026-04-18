@@ -1,0 +1,3 @@
+GET http://localhost:8080/api/rental/history/completed
+Authorization: eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJiNTRiY2JkYy0xYjFiLTRjNDktYjA3Mi1iYTBiODViOGYyNjUiLCJpYXQiOjE3NzY0NzEzNzUsImV4cCI6MTc3NjU1Nzc3NX0.LRYLupXpo3fMtPeAE9nd8jS_EbGloHaA5LHFMsqbVXgwondVEZnHnE9H4lg9M7_u
+
